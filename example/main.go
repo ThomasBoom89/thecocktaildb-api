@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/thomasboom89/thecocktaildb-api/pkg/thecocktaildb"
+	"github.com/ThomasBoom89/thecocktaildb-api/pkg/thecocktaildb"
 )
 
 func main() {

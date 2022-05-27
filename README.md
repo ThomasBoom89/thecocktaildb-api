@@ -15,13 +15,13 @@ If you want to use it professional you need to purchase an api-key -> https://ww
 Include this module into your existing go project
 
 ```zsh
-go get github.com/thomasboom89/thecocktaildb-api
+go get github.com/ThomasBoom89/thecocktaildb-api
 ```
 
 ## Update
 
 ```zsh
-go get -u github.com/thomasboom89/thecocktaildb-api
+go get -u github.com/ThomasBoom89/thecocktaildb-api
 ```
 
 ## Usage
