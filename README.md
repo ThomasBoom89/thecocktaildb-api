@@ -29,7 +29,7 @@ go get -u github.com/thomasboom89/thecocktaildb-api
 To use the wrapper you can look into the example file example/main.go
 Here is also a little text for you
 
-```zsh
+```go
 // create instance and provide an api key, defaults to development key if none is provided
 thecocktaildbapi := thecocktaildb.New("your-api-key")
 // now you can call the specific endpoint
